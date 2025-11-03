@@ -192,4 +192,3 @@ MIT License – Feel free to fork/extend.
 [Kipkosgeialex3@gmail.com] – Questions? Open an issue!
 ```
 
-This README is comprehensive yet concise—add screenshots via GitHub (drag-drop images to issues or use ![] syntax). After pushing, your repo is live! If issues, describe.
